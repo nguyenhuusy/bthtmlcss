@@ -1,0 +1,133 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    background:#F4F4F4 ;
+}
+.fa-bolt {
+    /* margin-left:160px; */
+}
+.top-title-number {
+    /* margin-right:160px; */
+}
+
+.main-top-title {
+    background: black;
+    color: white;
+    height:auto;
+    font-size: 15px;
+}
+.fa-bolt {
+    color: red;
+}
+.logo {
+    height:100px;
+    overflow: hidden;
+}
+.logo-img {
+    height:90px;
+    
+}
+.logo-banner {
+    height:90px;
+     width:auto;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    /* margin-right:360px; */
+}
+.menu-dropdown{
+    background: #FF2143 ;
+    margin-top:5px;
+}
+.nav-header {
+    padding:0 !important;
+}
+.navbar-toggler {
+    margin-left:auto;
+    padding:0.5rem;
+    
+}
+.navbar-toggler-icon {
+    color: #F4F4F4;
+    background: #F4F4F4;
+}
+.nav-link,.nav-item {
+    color:white !important;
+}
+.icon-header{
+    margin: 15px;
+    padding:10px 10px;
+    font-size: 13px;
+}
+.fa-facebook-f {
+    margin-left: 30px;
+}
+.fa-youtube {
+    margin-right: 30px;
+}
+.navbar-nav-header-icon {
+    border-left: 1px solid #F4F4F4;
+    
+    
+}
+.navbar-nav-header-icon-search {
+    border-left: 1px solid #F4F4F4;
+    border-right: 1px solid #F4F4F4;
+    
+}
+.fa-search {
+    padding:10px 10px;
+}
+.dropdown-menu-header {
+    top: 122% !important;
+    left: -9px !important;
+}
+.dropdown-background{
+    color: white;
+}
+/* .navbar-collapse {
+    background: white;
+    color: black;
+} */
+.social {
+    width:auto;
+    margin: 10px;
+    
+}
+.social-img{
+    
+    margin: 5px;
+    border-radius: 5px ;
+}
+.social-left,.social-right {
+    position: relative;
+}
+.social-word {
+    position: absolute;
+    top: 290px;
+    left: 30px;
+    width:80%;
+    color: #F4F4F4;
+}
+.social-word-right {
+    top: 14px;
+    
+}
+.social-title {
+    background: #FF2143;
+    width:fit-content;
+    padding: 2px;
+    border-radius:2px ;
+    /* font-size: 10px; */
+}
+.social-content {
+    /* font-size: 20px; */
+    font-weight: bold;
+}
+.social-footer {
+    /* font-size: 10px; */
+}

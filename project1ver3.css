@@ -1,0 +1,41 @@
+.black-bg {
+    background: black;
+}
+ul {
+    list-style: none;
+    display:flex;
+    align-items: center;
+    margin: 5px 0 !important;
+    color:white;
+}
+li {
+    margin: 0 7px;
+}
+a {
+    color: black !important;
+    text-decoration: none !important;
+}
+.fa-bolt {
+    color:red;
+}
+.title {
+    text-transform: uppercase;
+}
+.gray-bg {
+    background: #F4F4F4;
+}
+.header-flex {
+    display: flex;
+}
+.header-bottom {
+    background: #ED4140;
+}
+.submenu {
+    position: absolute;
+}
+.header-right {
+    display: flex;
+    align-items: center;
+}
+
+
