@@ -88,15 +88,31 @@ li {
 }
 .fa-facebook-square{
     color: #3a5998;
+    margin-top: 5px;
+    margin-left: 15px;
+    margin-right: 10px;
+    font-size: 35px;
 }
 .fa-twitter-square {
     color: #1ccbff;
+    margin-top: 5px;
+    margin-left: 15px;
+    margin-right: 10px;
+    font-size: 35px;
 }
 .fa-instagram {
     color: #3f739c;
+    margin-top: 5px;
+    margin-left: 15px;
+    margin-right: 10px;
+    font-size: 35px;
 }
 .fa-youtube-square{
     color: #e52d27;
+    margin-top: 5px;
+    margin-left: 15px;
+    margin-right: 10px;
+    font-size: 35px;
 }
 .active {
     color:red;
@@ -108,28 +124,32 @@ li {
     margin-top:10px;
 }
 .img-title {
-    font-weight: bold;
+    margin: 0;
 }
 .img-author {
     color:#bdc3c7;
-    font-size: 10px;
+    
 }
 .img-field {
     text-transform: uppercase;
     font-weight: bold;
-    font-size: 15px;
+    /* font-size: 15px; */
 }
 .img-field-1 {
 color: #2980b9;
+text-transform: uppercase;
 }
 .img-field-2 {
     color: #2980b9;
+    text-transform: uppercase;
 }
 .img-field-3 {
     color: #2ecc71;
+    text-transform: uppercase;
 }
 .img-field-4 {
     color: #e74c3c;
+    text-transform: uppercase;
 }
 .img-field-5 {
     background: #8a3ab9;
